@@ -6,7 +6,7 @@
 - 🏠 I’m currently lived in **Malang, Indonesia,** as Information System college at Universitas Brawijaya
 - 🔍 In path of learning Go, GRPC, Ruby On Rails, and NodeJs
 - 📝 Writing tech stack in medium => [https://medium.com/@grinaldiwisnu](https://medium.com/@grinaldiwisnu)
-- 📩 Hit me up on **LinkedIn!**(https://linkedin.com/in/grinaldiwisnu)
+- 📩 Hit me up on **[LinkedIn!](https://linkedin.com/in/grinaldiwisnu)**
 
 
 <p align="center">
