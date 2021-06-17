@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/grinaldiwisnu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grinaldiwisnu&hide=html,css,java&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grinaldiwisnu&hide=html,css,php&langs_count=8" />
   </a>
   <a href="https://github.com/grinaldiwisnu">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=grinaldiwisnu&show_icons=true&line_height=33&count_private=true" alt="Grinaldi's GitHub Stats" />
