@@ -5,7 +5,6 @@
 
 - 🏠 I’m currently lived in **Malang, Indonesia,** as Information System college at Universitas Brawijaya
 - 📃 Android Certified Developer
-- 🔍 In path of learning Go, GRPC, SpringBoot, and NodeJs
 - 📝 Writing tech stack in medium => [https://medium.com/@grinaldiwisnu](https://medium.com/@grinaldiwisnu)
 - 📩 Hit me up on **[LinkedIn!](https://linkedin.com/in/grinaldiwisnu)** or email me on **[here](mailto:grinaldifoc@gmail.com)**
 
