@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Grinaldi Wisnu 🙇🏻‍♂️</h1>
-<h3 align="center">A Backend Engineer & Mobile Engineer.</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=grinaldiwisnu" alt="grinaldiwisnu" /> </p>
 
