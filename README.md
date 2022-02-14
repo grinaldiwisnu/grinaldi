@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=grinaldiwisnu" alt="grinaldiwisnu" /> </p>
 
-- 🏠 I’m currently lived in **Malang, Indonesia,** as Information System college at Universitas Brawijaya
+- 🏠 I’m currently lived in **Malang, Indonesia,** as Software Engineer
 - 📃 Android Certified Developer
 - 📝 Writing tech stack in medium => [https://medium.com/@grinaldiwisnu](https://medium.com/@grinaldiwisnu)
 - 📩 Hit me up on **[LinkedIn!](https://linkedin.com/in/grinaldiwisnu)** or email me on **[here](mailto:grinaldifoc@gmail.com)**
